@@ -19,6 +19,8 @@ def raw_url_request(s_url, agent, port):
     pass
 
 def cc_url(s_url, agent_list):
+    for agent in agent_list:
+
     pass
 
 
